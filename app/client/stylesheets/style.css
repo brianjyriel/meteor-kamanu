@@ -2,6 +2,10 @@ body {
   padding-top: 81px;  /* Move body of page below navbar. */
 }
 
+.bcolor {
+  background-color: #080808;
+}
+
 .navbar-brand {
   padding-top: 0px;
 }
@@ -49,6 +53,13 @@ body {
   height: 385px;
 }
 
+.about {
+  background-image: url("/images/cover-about-eono.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
 .tagline {
   background-color: black;
   height: 111px;
@@ -61,5 +72,5 @@ body {
   color: #666;
   font-weight: 700;
   margin: 0px;
-  padding-top: 30px;
+  padding-top: 20px;
 }

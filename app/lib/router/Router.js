@@ -10,6 +10,10 @@ Router.configure({
   loadingTemplate: 'Loading'
 });
 
+Router.route('/home', {
+  name: 'Home'
+});
+
 Router.route('/store', {
   name: 'Store'
 });
@@ -24,6 +28,10 @@ Router.route('/aukahi', {
 
 Router.route('/kamanu', {
   name: 'Kamanu'
+});
+
+Router.route('/about', {
+  name: 'About'
 });
 
 
