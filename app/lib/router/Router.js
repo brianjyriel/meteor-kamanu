@@ -10,12 +10,12 @@ Router.configure({
   loadingTemplate: 'Loading'
 });
 
-Router.route('/', {
-  name: 'Home'
+Router.route('/store', {
+  name: 'Store'
 });
 
-Router.route('/list', {
-  name: 'ListStuff'
+Router.route('/pueo', {
+  name: 'Pueo'
 });
 
 Router.route('/add', {
