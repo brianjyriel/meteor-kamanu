@@ -18,8 +18,8 @@ Router.route('/pueo', {
   name: 'Pueo'
 });
 
-Router.route('/add', {
-  name: 'AddStuff'
+Router.route('/aukahi', {
+  name: 'Aukahi'
 });
 
 

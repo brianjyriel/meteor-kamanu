@@ -32,6 +32,14 @@ body {
   background-size: cover;
   background-position: center;
   height: 385px;
+
+}
+
+.aukahi {
+  background-image: url("/images/cover-aukahi.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 385px;
 }
 
 .tagline {
